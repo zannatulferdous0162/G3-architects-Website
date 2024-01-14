@@ -90,8 +90,20 @@ main{
 .teams-content{
     padding-right: 70px;
     padding-left: 70px;
+}
+.teams-titem{
+    font-size: 2.8rem;
+}
+.teams-title .quick-list{
+    color: #727272;
+    font-weight: 500;
+}
+.teams-title .text-features{
+    color: #FF900E;
+    font-weight: 700;
 
 }
+
 
 
 
